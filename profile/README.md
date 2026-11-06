@@ -17,7 +17,7 @@
   <p>
     <a href="https://github.com/ordercraft-hq/terminal"><strong>Explore the Terminal Repo →</strong></a>
     ·
-    <a href="https://github.com/ordercraft-hq/terminal/releases/latest"><strong>Download v0.1.0 Binaries</strong></a>
+    <a href="https://github.com/ordercraft-hq/terminal/releases/latest"><strong>Download Latest Binaries</strong></a>
     ·
     <a href="https://github.com/ordercraft-hq/terminal/discussions"><strong>Join Discussions</strong></a>
   </p>
